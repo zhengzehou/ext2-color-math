@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#f7f7f9"/>
+  <text x="58" y="58" font-family="Arial, 'PingFang SC', sans-serif" font-size="26" font-weight="700" fill="#30303a">Mind+ RGB 颜色组件效果图</text>
+  <text x="58" y="92" font-family="Arial, 'PingFang SC', sans-serif" font-size="16" fill="#777783">颜色选择框位于积木末尾，点击色块即可直接选择颜色</text>
+
+  <g transform="translate(58 142)">
+    <rect width="800" height="76" rx="38" fill="#7545e8"/>
+    <circle cx="34" cy="38" r="18" fill="#ffffff" opacity=".95"/>
+    <path d="M24 39c3-8 6-8 9 0s6 8 9 0M27 31v15M39 31v15" fill="none" stroke="#7545e8" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M78 0v76" stroke="#5f32d1" stroke-width="2" opacity=".7"/>
+    <text x="101" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="24" fill="#fff">RGB颜色</text>
+    <text x="235" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="23" fill="#fff">红</text>
+    <rect x="271" y="18" width="86" height="40" rx="20" fill="#fafafa" stroke="#5532b8" stroke-width="2"/>
+    <text x="294" y="46" font-family="Arial, sans-serif" font-size="22" fill="#555">255</text>
+    <text x="379" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="23" fill="#fff">绿</text>
+    <rect x="415" y="18" width="86" height="40" rx="20" fill="#fafafa" stroke="#5532b8" stroke-width="2"/>
+    <text x="438" y="46" font-family="Arial, sans-serif" font-size="22" fill="#555">165</text>
+    <text x="523" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="23" fill="#fff">蓝</text>
+    <rect x="559" y="18" width="70" height="40" rx="20" fill="#fafafa" stroke="#5532b8" stroke-width="2"/>
+    <text x="582" y="46" font-family="Arial, sans-serif" font-size="22" fill="#555">0</text>
+    <text x="650" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="21" fill="#fff">→ 颜色值</text>
+  </g>
+
+  <g transform="translate(58 258)">
+    <rect width="610" height="76" rx="38" fill="#7545e8"/>
+    <circle cx="34" cy="38" r="18" fill="#ffffff" opacity=".95"/>
+    <path d="M24 39c3-8 6-8 9 0s6 8 9 0M27 31v15M39 31v15" fill="none" stroke="#7545e8" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M78 0v76" stroke="#5f32d1" stroke-width="2" opacity=".7"/>
+    <text x="101" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="24" fill="#fff">颜色</text>
+    <rect x="414" y="14" width="166" height="48" rx="24" fill="#fafafa" stroke="#5532b8" stroke-width="2"/>
+    <circle cx="548" cy="38" r="17" fill="#1536e8" stroke="#29207b" stroke-width="3"/>
+    <text x="434" y="46" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" fill="#555">颜色</text>
+  </g>
+
+  <g transform="translate(58 374)">
+    <rect width="720" height="76" rx="38" fill="#7545e8"/>
+    <circle cx="34" cy="38" r="18" fill="#ffffff" opacity=".95"/>
+    <path d="M24 39c3-8 6-8 9 0s6 8 9 0M27 31v15M39 31v15" fill="none" stroke="#7545e8" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M78 0v76" stroke="#5f32d1" stroke-width="2" opacity=".7"/>
+    <text x="101" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="23" fill="#fff">颜色</text>
+    <rect x="179" y="14" width="166" height="48" rx="24" fill="#fafafa" stroke="#5532b8" stroke-width="2"/>
+    <circle cx="313" cy="38" r="17" fill="#1536e8" stroke="#29207b" stroke-width="3"/>
+    <text x="199" y="46" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" fill="#555">选择的颜色</text>
+    <text x="372" y="48" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#fff">的红色分量</text>
+  </g>
+
+  <path d="M865 296h156" fill="none" stroke="#7545e8" stroke-width="3"/>
+  <path d="M1008 284l18 12-18 12" fill="none" stroke="#7545e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="878" y="267" font-family="Arial, 'PingFang SC', sans-serif" font-size="19" fill="#7545e8">点击色块</text>
+  <text x="878" y="326" font-family="Arial, 'PingFang SC', sans-serif" font-size="16" fill="#777783">加入列表后，获取列表项</text>
+  <text x="878" y="353" font-family="Arial, 'PingFang SC', sans-serif" font-size="16" fill="#777783">直接返回颜色值</text>
+
+  <rect x="58" y="500" width="1084" height="70" rx="14" fill="#ede9ff"/>
+  <text x="84" y="532" font-family="Arial, 'PingFang SC', sans-serif" font-size="17" fill="#4f35a8">示例：</text>
+  <text x="145" y="532" font-family="Arial, 'PingFang SC', sans-serif" font-size="17" fill="#4b4b57">将“颜色”加入颜色列表 → 取出列表项 → RGB灯显示颜色</text>
+  <text x="84" y="557" font-family="Arial, 'PingFang SC', sans-serif" font-size="15" fill="#777783">当前效果图对应 V2 上传模式扩展中的颜色选择积木。</text>
+</svg>

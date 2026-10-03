@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="372" viewBox="0 0 600 372">
+  <rect width="600" height="372" rx="28" fill="#30206B"/>
+  <circle cx="496" cy="72" r="88" fill="#FFB84D"/>
+  <circle cx="538" cy="290" r="120" fill="#4BE1C3" opacity=".75"/>
+  <text x="42" y="132" fill="#fff" font-family="Arial, sans-serif" font-size="39" font-weight="700">COORDINATE</text>
+  <text x="42" y="180" fill="#fff" font-family="Arial, sans-serif" font-size="39" font-weight="700">TO COLOR</text>
+  <text x="45" y="232" fill="#E5DEFF" font-family="Arial, sans-serif" font-size="22">floor · modulo · RGB</text>
+</svg>

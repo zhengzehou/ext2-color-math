@@ -1,0 +1,9 @@
+{
+  "ext.codexColorMath.name": "Coordinate to Color / Math Tools",
+  "gui.blocklyText.codexColorMath.floorValue": "floor [NUM]",
+  "gui.blocklyText.codexColorMath.modulo": "[A] modulo [B]",
+  "gui.blocklyText.codexColorMath.rgbColor": "number to color R [R] G [G] B [B]",
+  "gui.blocklyText.codexColorMath.pickColor": "color [COLOR]",
+  "gui.blocklyText.codexColorMath.colorToList": "color string [COLOR]",
+  "gui.blocklyText.codexColorMath.colorFromList": "list item to color [VALUE]"
+}

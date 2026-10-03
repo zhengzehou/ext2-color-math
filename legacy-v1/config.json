@@ -1,0 +1,24 @@
+{
+  "name": {
+    "zh-cn": "颜色转换 / 数学工具",
+    "en": "RGB to Color / Math Tools"
+  },
+  "description": {
+    "zh-cn": "提供向下取整、取模和 RGB 数字转颜色积木。",
+    "en": "Floor, modulo, and RGB number-to-color reporter blocks."
+  },
+  "author": "houze",
+  "email": "",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "colorMath",
+  "platform": ["win", "mac", "web"],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.2.6",
+      "board": ["arduino", "arduinonano", "leonardo", "mega2560", "microbit", "esp32"],
+      "main": "main.ts"
+    }
+  }
+}

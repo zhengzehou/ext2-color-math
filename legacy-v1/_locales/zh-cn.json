@@ -1,0 +1,5 @@
+{
+  "CodexColorMath.floorValue|block": "向下取整 [NUM]",
+  "CodexColorMath.modulo|block": "[A] 取模 [B]",
+  "CodexColorMath.rgbColor|block": "数字转颜色 红 [R] 绿 [G] 蓝 [B]"
+}

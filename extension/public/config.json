@@ -1,0 +1,26 @@
+{
+  "id": "colorMath",
+  "version": "0.2.6",
+  "name": {
+    "zh-cn": "颜色转换 / 数学工具",
+    "en": "Coordinate to Color / Math Tools"
+  },
+  "description": {
+    "zh-cn": "提供向下取整、取模和 RGB 数字转颜色积木。",
+    "en": "Floor, modulo, and RGB number-to-color reporter blocks."
+  },
+  "cover": "cover.svg",
+  "author": "houze",
+  "supportArch": [
+    "all"
+  ],
+  "libraryConfig": [],
+  "isDevice": false,
+  "sku": "",
+  "main": "main.js",
+  "mode": "upload",
+  "compatibilityId": "",
+  "meta": {
+    "runtimeVersion": "0.0.2"
+  }
+}
